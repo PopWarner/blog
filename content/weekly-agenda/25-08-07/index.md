@@ -42,7 +42,6 @@ Demos:
 
 Demos:
 
-* [Praveen Kumar R](https://www.linkedin.com/in/praveen-kumar-r-789463190/) (Quadra) & [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (EY) – SharePoint 	Hackathon: Building future-ready Intranets using SPFx
 * [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Copilot Samples and Contributions in under 7 minutes!
 * [Paul Bullock](https://www.linkedin.com/in/pkbullock/) (Avanade) – Copilot Extensibility Unleashed – Powered by Community Samples!
 
