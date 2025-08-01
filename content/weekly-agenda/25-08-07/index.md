@@ -42,9 +42,9 @@ Demos:
 
 Demos:
 
-* [Praveen Kumar](https://www.linkedin.com/in/praveen-kumar-8864aa66/) (Schneider Electric) & [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (EY) – SharePoint 	Hackathon: Building future-ready Intranets using SPFx
+* [Praveen Kumar R](https://www.linkedin.com/in/praveen-kumar-r-789463190/) (Quadra) & [Sandeep PS](https://www.linkedin.com/in/sandeepps1299/) (EY) – SharePoint 	Hackathon: Building future-ready Intranets using SPFx
 * [David Warner](https://www.linkedin.com/in/davidwarnerii/) (Quisitive) – Copilot Samples and Contributions in under 7 minutes!
-* [Brian Archer](https://www.linkedin.com/in/brian-archer-a84360118/) (Scottish Courts and Tribunals Service) – Power Platform Meets Terraform
+* [Paul Bullock](https://www.linkedin.com/in/pkbullock/) (Avanade) – Copilot Extensibility Unleashed – Powered by Community Samples!
 
 **Interested on doing a demo here?** - [Let us know](https://aka.ms/community/request/demo) and we'll get you scheduled!
 
